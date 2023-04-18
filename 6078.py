@@ -1,10 +1,8 @@
 # -*- coding : utf-8 -*-
 
-
-
-
-for i in :
-    value = input()
-    arr.append(value)
-
-print(arr[0])
+while True:
+    char = input()
+    print(char)
+    if(char=='q'):
+        break
+    
