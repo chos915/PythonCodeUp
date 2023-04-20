@@ -21,5 +21,5 @@ for i in range(0, 1001):
     i += 1
     sum += i
     if(sum >= n):
-        print(i)
+        print(i)   
         break
